@@ -1,0 +1,1402 @@
+[
+  {
+    "JobCode": "D4160",
+    "Description": "Area Residential Sales Mgr",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D1110",
+    "Description": "Assistant Division President",
+    "ActiveEmployee": "I",
+    "EmpType": "",
+    "Role": "Regional VP"
+  },
+  {
+    "JobCode": "D1110",
+    "Description": "Assistant Division President",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Regional VP"
+  },
+  {
+    "JobCode": "D3100",
+    "Description": "Auditor - Full-time",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "TBD (To Be Determined)"
+  },
+  {
+    "JobCode": "D3100",
+    "Description": "Auditor - Full-time",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "TBD (To Be Determined)"
+  },
+  {
+    "JobCode": "D3100",
+    "Description": "Auditor - Full-time",
+    "ActiveEmployee": "A",
+    "EmpType": "N",
+    "Role": "TBD (To Be Determined)"
+  },
+  {
+    "JobCode": "D3105",
+    "Description": "Auditor - Part-time",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "TBD (To Be Determined)"
+  },
+  {
+    "JobCode": "D4210",
+    "Description": "Branch Manager",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D4210",
+    "Description": "Branch Manager",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D4210",
+    "Description": "Branch Manager",
+    "ActiveEmployee": "I",
+    "EmpType": "",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D3410",
+    "Description": "Builder CSR",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "D3410",
+    "Description": "Builder CSR",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "D3410",
+    "Description": "Builder CSR",
+    "ActiveEmployee": "I",
+    "EmpType": "",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "D3410",
+    "Description": "Builder CSR",
+    "ActiveEmployee": "I",
+    "EmpType": "N",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "D3410",
+    "Description": "Builder CSR",
+    "ActiveEmployee": "A",
+    "EmpType": "N",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "E3410",
+    "Description": "Builder CSR - CA Only",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "D6100",
+    "Description": "Builder Sales Representative",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "D6100",
+    "Description": "Builder Sales Representative",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "E6100",
+    "Description": "Builder Sales Representative - CA Only",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "E5400",
+    "Description": "Builder Termite Tech",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "E5400",
+    "Description": "Builder Termite Tech",
+    "ActiveEmployee": "I",
+    "EmpType": "",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "D5400",
+    "Description": "Builder Termite Technician - Full-time",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "D5400",
+    "Description": "Builder Termite Technician - Full-time",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "D5400",
+    "Description": "Builder Termite Technician - Full-time",
+    "ActiveEmployee": "A",
+    "EmpType": "N",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "D6141",
+    "Description": "Call Center Rep",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "TBD (To Be Determined)"
+  },
+  {
+    "JobCode": "D6141",
+    "Description": "Call Center Rep",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "TBD (To Be Determined)"
+  },
+  {
+    "JobCode": "D6141",
+    "Description": "Call Center Rep",
+    "ActiveEmployee": "I",
+    "EmpType": "",
+    "Role": "TBD (To Be Determined)"
+  },
+  {
+    "JobCode": "D6141",
+    "Description": "Call Center Rep",
+    "ActiveEmployee": "I",
+    "EmpType": "N",
+    "Role": "TBD (To Be Determined)"
+  },
+  {
+    "JobCode": "D6141",
+    "Description": "Call Center Rep",
+    "ActiveEmployee": "A",
+    "EmpType": "N",
+    "Role": "TBD (To Be Determined)"
+  },
+  {
+    "JobCode": "D4590",
+    "Description": "Call Center Supervisor",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "TBD (To Be Determined)"
+  },
+  {
+    "JobCode": "D1030",
+    "Description": "Chief Financial Officers",
+    "ActiveEmployee": "I",
+    "EmpType": "",
+    "Role": "TBD (To Be Determined)"
+  },
+  {
+    "JobCode": "D6180",
+    "Description": "Commercial Sales Representative",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "D3400",
+    "Description": "Customer Service Rep 1 - Full-time",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "D3400",
+    "Description": "Customer Service Rep 1 - Full-time",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "D3400",
+    "Description": "Customer Service Rep 1 - Full-time",
+    "ActiveEmployee": "A",
+    "EmpType": "N",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "D3400",
+    "Description": "Customer Service Rep 1 - Full-time",
+    "ActiveEmployee": "I",
+    "EmpType": "N",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "D3400",
+    "Description": "Customer Service Rep 1 - Full-time",
+    "ActiveEmployee": "I",
+    "EmpType": "",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "D3400",
+    "Description": "Customer Service Rep 1 - Full-time",
+    "ActiveEmployee": "A",
+    "EmpType": "",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "E3400",
+    "Description": "Customer Service Rep 1 - Full-time CA Only",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "E3400",
+    "Description": "Customer Service Rep 1 - Full-time CA Only",
+    "ActiveEmployee": "I",
+    "EmpType": "",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "E3400",
+    "Description": "Customer Service Rep 1 - Full-time CA Only",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "E3400",
+    "Description": "Customer Service Rep 1 - Full-time CA Only",
+    "ActiveEmployee": "I",
+    "EmpType": "N",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "E3400",
+    "Description": "Customer Service Rep 1 - Full-time CA Only",
+    "ActiveEmployee": "A",
+    "EmpType": "N",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "D3405",
+    "Description": "Customer Service Rep 1 - Part-time",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "D3405",
+    "Description": "Customer Service Rep 1 - Part-time",
+    "ActiveEmployee": "I",
+    "EmpType": "",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "D3405",
+    "Description": "Customer Service Rep 1 - Part-time",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "D3405",
+    "Description": "Customer Service Rep 1 - Part-time",
+    "ActiveEmployee": "I",
+    "EmpType": "N",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "E3405",
+    "Description": "Customer Service Rep 1 - Part-time CA Only",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "D3401",
+    "Description": "Customer Service Rep 2 - Full Time",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "D3401",
+    "Description": "Customer Service Rep 2 - Full Time",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "D3401",
+    "Description": "Customer Service Rep 2 - Full Time",
+    "ActiveEmployee": "A",
+    "EmpType": "N",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "E3401",
+    "Description": "Customer Service Rep 2 - Full Time CA ONLY",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "D3406",
+    "Description": "Customer Service Rep 2 - Part Time",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "D3402",
+    "Description": "Customer Service Rep 3 - Full Time",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "D3402",
+    "Description": "Customer Service Rep 3 - Full Time",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "E3402",
+    "Description": "Customer Service Rep 3 - Full Time CA ONLY",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "E3402",
+    "Description": "Customer Service Rep 3 - Full Time CA ONLY",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "D3407",
+    "Description": "Customer Service Rep 3 - Part Time",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Customer Service Representative"
+  },
+  {
+    "JobCode": "D1540",
+    "Description": "Database Developer",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "TBD (To Be Determined)"
+  },
+  {
+    "JobCode": "D1770",
+    "Description": "Dir Human Resources",
+    "ActiveEmployee": "I",
+    "EmpType": "",
+    "Role": "Regional VP"
+  },
+  {
+    "JobCode": "D1770",
+    "Description": "Dir Human Resources",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Regional VP"
+  },
+  {
+    "JobCode": "D1910",
+    "Description": "Dir Marketing",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Regional VP"
+  },
+  {
+    "JobCode": "D1730",
+    "Description": "Dir Training",
+    "ActiveEmployee": "A",
+    "EmpType": "",
+    "Role": "Regional VP"
+  },
+  {
+    "JobCode": "D1300",
+    "Description": "Division Administration",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Regional VP"
+  },
+  {
+    "JobCode": "D1120",
+    "Description": "Division President",
+    "ActiveEmployee": "A",
+    "EmpType": "",
+    "Role": "Regional VP"
+  },
+  {
+    "JobCode": "D4510",
+    "Description": "Field Customer Service Support Manager",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D3010",
+    "Description": "Field Supervisor",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D3010",
+    "Description": "Field Supervisor",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D3010",
+    "Description": "Field Supervisor",
+    "ActiveEmployee": "I",
+    "EmpType": "N",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "E3010",
+    "Description": "Field Supervisor - CA Only",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D4530",
+    "Description": "Field Support Customer Svc Supervisor",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D1420",
+    "Description": "Field Systems Support Manager",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D1420",
+    "Description": "Field Systems Support Manager",
+    "ActiveEmployee": "I",
+    "EmpType": "",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D4200",
+    "Description": "General Manager",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D4200",
+    "Description": "General Manager",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D4200",
+    "Description": "General Manager",
+    "ActiveEmployee": "I",
+    "EmpType": "",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D4200",
+    "Description": "General Manager",
+    "ActiveEmployee": "A",
+    "EmpType": "N",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "E4200",
+    "Description": "General Manager - CA Only",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "E4200",
+    "Description": "General Manager - CA Only",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D1740",
+    "Description": "Human Resources Manager",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D1740",
+    "Description": "Human Resources Manager",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D1740",
+    "Description": "Human Resources Manager",
+    "ActiveEmployee": "A",
+    "EmpType": "N",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D1610",
+    "Description": "Information Technology Manager",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D6190",
+    "Description": "Inside Residential Sales Rep - Full-time",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Sales"
+  },
+  {
+    "JobCode": "D6190",
+    "Description": "Inside Residential Sales Rep - Full-time",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Sales"
+  },
+  {
+    "JobCode": "D6190",
+    "Description": "Inside Residential Sales Rep - Full-time",
+    "ActiveEmployee": "I",
+    "EmpType": "",
+    "Role": "Sales"
+  },
+  {
+    "JobCode": "D6190",
+    "Description": "Inside Residential Sales Rep - Full-time",
+    "ActiveEmployee": "I",
+    "EmpType": "N",
+    "Role": "Sales"
+  },
+  {
+    "JobCode": "D6190",
+    "Description": "Inside Residential Sales Rep - Full-time",
+    "ActiveEmployee": "A",
+    "EmpType": "N",
+    "Role": "Sales"
+  },
+  {
+    "JobCode": "E6190",
+    "Description": "Inside Residential Sales Rep - Full-time CA Only",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Sales"
+  },
+  {
+    "JobCode": "E6190",
+    "Description": "Inside Residential Sales Rep - Full-time CA Only",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Sales"
+  },
+  {
+    "JobCode": "D6195",
+    "Description": "Inside Residential Sales Rep - Part-time",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Sales"
+  },
+  {
+    "JobCode": "D6195",
+    "Description": "Inside Residential Sales Rep - Part-time",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Sales"
+  },
+  {
+    "JobCode": "D6195",
+    "Description": "Inside Residential Sales Rep - Part-time",
+    "ActiveEmployee": "I",
+    "EmpType": "",
+    "Role": "Sales"
+  },
+  {
+    "JobCode": "D6195",
+    "Description": "Inside Residential Sales Rep - Part-time",
+    "ActiveEmployee": "A",
+    "EmpType": "N",
+    "Role": "Sales"
+  },
+  {
+    "JobCode": "E6195",
+    "Description": "Inside Residential Sales Rep - Part-time CA Only",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Sales"
+  },
+  {
+    "JobCode": "D6140",
+    "Description": "Inside Sales Rep - Driving",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Sales"
+  },
+  {
+    "JobCode": "D6140",
+    "Description": "Inside Sales Rep - Driving",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Sales"
+  },
+  {
+    "JobCode": "D6140",
+    "Description": "Inside Sales Rep - Driving",
+    "ActiveEmployee": "I",
+    "EmpType": "",
+    "Role": "Sales"
+  },
+  {
+    "JobCode": "D6140",
+    "Description": "Inside Sales Rep - Driving",
+    "ActiveEmployee": "A",
+    "EmpType": "N",
+    "Role": "Sales"
+  },
+  {
+    "JobCode": "D6140",
+    "Description": "Inside Sales Rep - Driving",
+    "ActiveEmployee": "I",
+    "EmpType": "N",
+    "Role": "Sales"
+  },
+  {
+    "JobCode": "E6140",
+    "Description": "Inside Sales Rep - Driving - CA Only",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Sales"
+  },
+  {
+    "JobCode": "E6140",
+    "Description": "Inside Sales Rep - Driving - CA Only",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Sales"
+  },
+  {
+    "JobCode": "E6140",
+    "Description": "Inside Sales Rep - Driving - CA Only",
+    "ActiveEmployee": "I",
+    "EmpType": "",
+    "Role": "Sales"
+  },
+  {
+    "JobCode": "E6140",
+    "Description": "Inside Sales Rep - Driving - CA Only",
+    "ActiveEmployee": "A",
+    "EmpType": "N",
+    "Role": "Sales"
+  },
+  {
+    "JobCode": "D6145",
+    "Description": "Inside Sales Rep - Driving PT",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Sales"
+  },
+  {
+    "JobCode": "E5300",
+    "Description": "Installer - CA Only",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "E5300",
+    "Description": "Installer - CA Only",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "E5300",
+    "Description": "Installer - CA Only",
+    "ActiveEmployee": "A",
+    "EmpType": "N",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "E5300",
+    "Description": "Installer - CA Only",
+    "ActiveEmployee": "I",
+    "EmpType": "N",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "D5300",
+    "Description": "Installer - Full-time",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "D5300",
+    "Description": "Installer - Full-time",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "D5300",
+    "Description": "Installer - Full-time",
+    "ActiveEmployee": "A",
+    "EmpType": "N",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "D5300",
+    "Description": "Installer - Full-time",
+    "ActiveEmployee": "I",
+    "EmpType": "",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "D5300",
+    "Description": "Installer - Full-time",
+    "ActiveEmployee": "I",
+    "EmpType": "N",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "D5300",
+    "Description": "Installer - Full-time",
+    "ActiveEmployee": "A",
+    "EmpType": "",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "D5305",
+    "Description": "Installer - Part-time",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "D5250",
+    "Description": "Lawn Technician",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "D5250",
+    "Description": "Lawn Technician",
+    "ActiveEmployee": "A",
+    "EmpType": "N",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "D1500",
+    "Description": "Managing Director of IT",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Regional VP"
+  },
+  {
+    "JobCode": "D1210",
+    "Description": "Marketing & Communication Strategist",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Regional VP"
+  },
+  {
+    "JobCode": "D1075",
+    "Description": "Marketing Mgr",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Regional VP"
+  },
+  {
+    "JobCode": "D4300",
+    "Description": "Office Manager - Exempt",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D4300",
+    "Description": "Office Manager - Exempt",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D4300",
+    "Description": "Office Manager - Exempt",
+    "ActiveEmployee": "A",
+    "EmpType": "",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D4300",
+    "Description": "Office Manager - Exempt",
+    "ActiveEmployee": "I",
+    "EmpType": "",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D4300",
+    "Description": "Office Manager - Exempt",
+    "ActiveEmployee": "A",
+    "EmpType": "N",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D4300",
+    "Description": "Office Manager - Exempt",
+    "ActiveEmployee": "I",
+    "EmpType": "N",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "E4300",
+    "Description": "Office Manager - Exempt CA Only",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "E4300",
+    "Description": "Office Manager - Exempt CA Only",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "E4300",
+    "Description": "Office Manager - Exempt CA Only",
+    "ActiveEmployee": "A",
+    "EmpType": "N",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D4310",
+    "Description": "Office Manager - Non-Exempt",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D4310",
+    "Description": "Office Manager - Non-Exempt",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "E4310",
+    "Description": "Office Manager - Non-Exempt CA Only",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D4400",
+    "Description": "Operations Manager",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D4400",
+    "Description": "Operations Manager",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "E4400",
+    "Description": "Operations Manager",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D5010",
+    "Description": "PC Tech/E - Full-time (Base plus production pay)",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "D5010",
+    "Description": "PC Tech/E - Full-time (Base plus production pay)",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "D5010",
+    "Description": "PC Tech/E - Full-time (Base plus production pay)",
+    "ActiveEmployee": "I",
+    "EmpType": "",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "D5010",
+    "Description": "PC Tech/E - Full-time (Base plus production pay)",
+    "ActiveEmployee": "A",
+    "EmpType": "N",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "D5010",
+    "Description": "PC Tech/E - Full-time (Base plus production pay)",
+    "ActiveEmployee": "I",
+    "EmpType": "N",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "D5010",
+    "Description": "PC Tech/E - Full-time (Base plus production pay)",
+    "ActiveEmployee": "A",
+    "EmpType": "",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "D5015",
+    "Description": "PC Tech/E - Part-time (Base plus production pay)",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "D5020",
+    "Description": "PC Tech/NE - Full-time  (Hourly plus overtime)",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "D5020",
+    "Description": "PC Tech/NE - Full-time  (Hourly plus overtime)",
+    "ActiveEmployee": "I",
+    "EmpType": "",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "E5025",
+    "Description": "PC Tech/NE - Part-time (Hourly plus overtime) - CA Only",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "E5020",
+    "Description": "PC Tech/NE (Hourly plus overtime) - CA Only",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "E5020",
+    "Description": "PC Tech/NE (Hourly plus overtime) - CA Only",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "E5020",
+    "Description": "PC Tech/NE (Hourly plus overtime) - CA Only",
+    "ActiveEmployee": "I",
+    "EmpType": "",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "E5020",
+    "Description": "PC Tech/NE (Hourly plus overtime) - CA Only",
+    "ActiveEmployee": "A",
+    "EmpType": "N",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "E5020",
+    "Description": "PC Tech/NE (Hourly plus overtime) - CA Only",
+    "ActiveEmployee": "I",
+    "EmpType": "N",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "E1790",
+    "Description": "QA Coordinator",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "TBD (To Be Determined)"
+  },
+  {
+    "JobCode": "D1310",
+    "Description": "Region Controller",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "TBD (To Be Determined)"
+  },
+  {
+    "JobCode": "D1310",
+    "Description": "Region Controller",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "TBD (To Be Determined)"
+  },
+  {
+    "JobCode": "D1310",
+    "Description": "Region Controller",
+    "ActiveEmployee": "A",
+    "EmpType": "N",
+    "Role": "TBD (To Be Determined)"
+  },
+  {
+    "JobCode": "D4030",
+    "Description": "Regional Operations Director",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Regional VP"
+  },
+  {
+    "JobCode": "D4020",
+    "Description": "Regional Sales Manager",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D4020",
+    "Description": "Regional Sales Manager",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D4020",
+    "Description": "Regional Sales Manager",
+    "ActiveEmployee": "A",
+    "EmpType": "N",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D4050",
+    "Description": "Regional Technical Director",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Regional VP"
+  },
+  {
+    "JobCode": "D4050",
+    "Description": "Regional Technical Director",
+    "ActiveEmployee": "A",
+    "EmpType": "N",
+    "Role": "Regional VP"
+  },
+  {
+    "JobCode": "D1090",
+    "Description": "Regional VP",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Regional VP"
+  },
+  {
+    "JobCode": "D1090",
+    "Description": "Regional VP",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Regional VP"
+  },
+  {
+    "JobCode": "D1440",
+    "Description": "Reporting and Data Manager",
+    "ActiveEmployee": "I",
+    "EmpType": "",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D1440",
+    "Description": "Reporting and Data Manager",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D6170",
+    "Description": "Residential Sales Rep - Full-time",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Sales"
+  },
+  {
+    "JobCode": "D6170",
+    "Description": "Residential Sales Rep - Full-time",
+    "ActiveEmployee": "I",
+    "EmpType": "",
+    "Role": "Sales"
+  },
+  {
+    "JobCode": "D4600",
+    "Description": "Sales Manager",
+    "ActiveEmployee": "I",
+    "EmpType": "",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D4600",
+    "Description": "Sales Manager",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D4600",
+    "Description": "Sales Manager",
+    "ActiveEmployee": "A",
+    "EmpType": "N",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D4600",
+    "Description": "Sales Manager",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "E4600",
+    "Description": "Sales Manager - CA Only",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "E4600",
+    "Description": "Sales Manager - CA Only",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "E4600",
+    "Description": "Sales Manager - CA Only",
+    "ActiveEmployee": "A",
+    "EmpType": "N",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D6142",
+    "Description": "Sales Supervisor",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D6142",
+    "Description": "Sales Supervisor",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D1720",
+    "Description": "Senior HR Manager",
+    "ActiveEmployee": "I",
+    "EmpType": "",
+    "Role": "Regional VP"
+  },
+  {
+    "JobCode": "D1920",
+    "Description": "Senior Project Manager",
+    "ActiveEmployee": "I",
+    "EmpType": "",
+    "Role": "Regional VP"
+  },
+  {
+    "JobCode": "D1520",
+    "Description": "Sr. Systems Administrator",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Regional VP"
+  },
+  {
+    "JobCode": "D1020",
+    "Description": "Sr. VP Organization Develop",
+    "ActiveEmployee": "I",
+    "EmpType": "",
+    "Role": "Regional VP"
+  },
+  {
+    "JobCode": "D1350",
+    "Description": "Staff Accountant",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "TBD (To Be Determined)"
+  },
+  {
+    "JobCode": "D1350",
+    "Description": "Staff Accountant",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "TBD (To Be Determined)"
+  },
+  {
+    "JobCode": "D4500",
+    "Description": "Svc Mgr Termite Svc Mgr",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D4500",
+    "Description": "Svc Mgr Termite Svc Mgr",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D4500",
+    "Description": "Svc Mgr Termite Svc Mgr",
+    "ActiveEmployee": "A",
+    "EmpType": "N",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D4500",
+    "Description": "Svc Mgr Termite Svc Mgr",
+    "ActiveEmployee": "I",
+    "EmpType": "",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "E4500",
+    "Description": "Svc Mgr/Termite Svc Mgr - CA Only",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "E4500",
+    "Description": "Svc Mgr/Termite Svc Mgr - CA Only",
+    "ActiveEmployee": "I",
+    "EmpType": "",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "E4500",
+    "Description": "Svc Mgr/Termite Svc Mgr - CA Only",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Manager"
+  },
+  {
+    "JobCode": "D5200",
+    "Description": "Termite Technician - Full-time",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "D5200",
+    "Description": "Termite Technician - Full-time",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "D5200",
+    "Description": "Termite Technician - Full-time",
+    "ActiveEmployee": "I",
+    "EmpType": "",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "D5200",
+    "Description": "Termite Technician - Full-time",
+    "ActiveEmployee": "A",
+    "EmpType": "N",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "D5200",
+    "Description": "Termite Technician - Full-time",
+    "ActiveEmployee": "I",
+    "EmpType": "N",
+    "Role": "Technician"
+  },
+  {
+    "JobCode": "D1780",
+    "Description": "Training Specialist",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "TBD (To Be Determined)"
+  },
+  {
+    "JobCode": "D1040",
+    "Description": "VP Builder Sales",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Regional VP"
+  },
+  {
+    "JobCode": "D1080",
+    "Description": "VP Marketing",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Regional VP"
+  },
+  {
+    "JobCode": "D1130",
+    "Description": "VP National Accounts",
+    "ActiveEmployee": "I",
+    "EmpType": "E",
+    "Role": "Regional VP"
+  },
+  {
+    "JobCode": "D6020",
+    "Description": "VP Residential Sales",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Regional VP"
+  },
+  {
+    "JobCode": "D1060",
+    "Description": "VP Technical Services",
+    "ActiveEmployee": "A",
+    "EmpType": "E",
+    "Role": "Regional VP"
+  }
+]

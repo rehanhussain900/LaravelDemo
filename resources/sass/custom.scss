@@ -1,0 +1,139 @@
+#section-edit {
+  display: none;
+}
+
+.btn {
+  transition: all ease-in-out 200ms;
+}
+
+.btn-flat {
+  border-radius: unset;
+}
+
+/* --------------------------------------------------------------
+ *  DataTables
+ * --------------------------------------------------------------
+ */
+table.dataTable thead .sorting:before, table.dataTable thead .sorting_asc:before, table.dataTable thead .sorting_asc_disabled:before, table.dataTable thead .sorting_desc:before, table.dataTable thead .sorting_desc_disabled:before {
+  content: '';
+}
+
+table.dataTable thead .sorting:after, table.dataTable thead .sorting_asc:after, table.dataTable thead .sorting_asc_disabled:after, table.dataTable thead .sorting_desc:after, table.dataTable thead .sorting_desc_disabled:after {
+  content: '';
+}
+
+table.dataTable > thead .sorting:before, table.dataTable > thead .sorting_asc:before, table.dataTable > thead .sorting_asc_disabled:before, table.dataTable > thead .sorting_desc:before, table.dataTable > thead .sorting_desc_disabled:before {
+  right: 0;
+}
+
+table.dataTable > thead .sorting:after, table.dataTable > thead .sorting_asc:after, table.dataTable > thead .sorting_asc_disabled:after, table.dataTable > thead .sorting_desc:after, table.dataTable > thead .sorting_desc_disabled:after {
+  right: 0;
+}
+
+div.dataTables_wrapper div.dataTables_filter select, div.dataTables_wrapper div.dataTables_length select {
+  background-position: 90% 60%;
+}
+
+/* --------------------------------------------------------------
+ *  Sorting
+ * --------------------------------------------------------------
+ */
+table.dataTable thead .sorting:before, table.dataTable thead .sorting_asc:before, table.dataTable thead .sorting_desc:before {
+  top: 30%;
+}
+
+table.dataTable thead .sorting:after, table.dataTable thead .sorting_asc:after, table.dataTable thead .sorting_desc:after {
+  top: 45%;
+}
+
+.dataTables_filter label > input[type="search"] {
+  margin-right: 10px !important;
+  margin-left: 10px !important;
+  height: 2rem;
+}
+
+.dataTables_filter .btn-group,
+.dataTables_filter .btn-group {
+  margin-top: -2px
+}
+
+.btnColToggle .btn-sm {
+  padding-top: 0.44rem;
+  padding-bottom: 0.44rem;
+  margin-top: -1px;
+}
+
+/* --------------------------------------------------------------
+ *  Collapse
+ * --------------------------------------------------------------
+ */
+.collapse-checkbox-label {
+  cursor: pointer;
+}
+
+.contract-service-label {
+  font-size: 1rem;
+  /*font-weight: 600*/
+;
+}
+
+.contract-service-checkbox {
+  width: 16px;
+  height: 16px;
+  vertical-align: text-top;
+}
+
+.contract-service-column {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.bg-contract-service {
+  background-color: #ECEFF1 !important;
+}
+
+/* --------------------------------------------------------------
+ *  Utils
+ * --------------------------------------------------------------
+ */
+.border-bottom-1 {
+  border-bottom: 1px solid #ebe9f1;
+}
+
+.col-cell {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.col-cell > strong {
+  padding-right: 5px;
+}
+
+.checkbox-lg {
+  width: 16px;
+  height: 16px
+}
+
+/* --------------------------------------------------------------
+ *  Column Visibility Dropdown
+ * --------------------------------------------------------------
+ */
+.col-vis-menu .dropdown-item {
+  padding: 10px 5px !important;
+  margin: 0 !important;
+  font-size: 1rem;
+  vertical-align: middle;
+}
+
+.col-vis-menu .dropdown-item input[type="checkbox"] {
+  width: 16px;
+  height: 16px;
+  vertical-align: middle;
+}
+
+@media only screen and (max-width: 1200px) {
+  /* Styles here */
+  #list-module {
+    display: none !important;
+  }
+}
